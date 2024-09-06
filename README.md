@@ -9,7 +9,7 @@
 
 <em>La pagina debe cargar rapidamente, en menos de 5 segundos.</em>
 
-
+<em>El programa debe ser compatible en multiples navegadores.</em>
 
 
 <strong><em>Requisitos funcionales.</em></strong>
@@ -20,4 +20,4 @@
 
 <em>La pagina podrá permitirle a los usuarios buscar juegos por medio de filtros.</em>
 
-
+<em>El usuario podra registrarse, iniciar sesion, cerrar sesion y iniciar en cuenta de invitado al inicio de la pagina.</em>
