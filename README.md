@@ -11,8 +11,11 @@
 
 <em>El programa debe ser compatible en multiples navegadores.</em>
 
+<em>Cuando salgas de la ventana se pause el juego.</em>
 
 <strong><em>Requisitos funcionales.</em></strong>
+
+<strong><em>Un menu donde modificar los fps.</em></strong>
 
 <em>La pagina tendra que ser interactiva en la seleccion de cada juego.</em>
 
