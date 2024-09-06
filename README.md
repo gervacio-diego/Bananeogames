@@ -15,7 +15,7 @@
 
 <strong><em>Requisitos funcionales.</em></strong>
 
-<strong><em>Un menu donde modificar los fps.</em></strong>
+<em>Un menu donde modificar los fps.</em>
 
 <em>La pagina tendra que ser interactiva en la seleccion de cada juego.</em>
 
