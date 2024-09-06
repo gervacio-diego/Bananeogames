@@ -20,4 +20,4 @@
 
 <em>La pagina podrá permitirle a los usuarios buscar juegos por medio de filtros.</em>
 
-<em>Ejemplo tutorial.</em>
+
