@@ -1,4 +1,4 @@
-<table><tr><td>BANANEO GAMES INC.</td></tr></table>
+<table><tr><td>	$\color{Apricot}{BA\ NA\ NEO\ GA\ MES\INC.}</td></tr></table>
 
 <samp>Pagina de videojuegos de calidad.</samp>
 
