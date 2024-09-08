@@ -1,4 +1,4 @@
-<strong><em>🎮BANANEO GAMES INC.</em></strong>
+<strong><em>🎮BANANEO GAMES INC🎮.</em></strong>
 
 $\color{Aquamarine}{Pagina\ de\ videojuegos\ de\ calidad.}$
 
