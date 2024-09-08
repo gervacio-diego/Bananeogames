@@ -1,6 +1,6 @@
 <table><tr><td>BANANEO GAMES INC.</td></tr></table>
 
-$\color{Aquamarine}{pagina\ de\ videojuegos\ de\ calidad.}$
+$\color{Aquamarine}{Pagina\ de\ videojuegos\ de\ calidad.}$
 
 <strong><em>Requisitos no funcionales.</em></strong>
 
