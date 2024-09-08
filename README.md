@@ -1,4 +1,5 @@
-# Bananeogames
+<table><tr><td>BANANEO GAMES INC.</td></tr></table>
+
 <samp>Pagina de videojuegos de calidad.</samp>
 
 <strong><em>Requisitos no funcionales.</em></strong>
