@@ -1,4 +1,4 @@
-<table><tr><td>BANANEO GAMES INC.</td></tr></table>
+<strong><em>🎮BANANEO GAMES INC.</em></strong>
 
 $\color{Aquamarine}{Pagina\ de\ videojuegos\ de\ calidad.}$
 
