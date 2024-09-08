@@ -9,7 +9,7 @@
 
 <em>La pagina debe cargar rapidamente, en menos de 5 segundos.</em>
 
-<em>El programa debe ser compatible en multiples navegadores.</em>
+<em>El sistema web debe ser totalmente compatible y funcionar correctamente en multiples navegadores web(Google chrome, Mozila Firefox, Microsoft edge, Safari).</em>
 
 <em>Cuando salgas de la ventana se pause el juego.</em>
 
@@ -23,4 +23,4 @@
 
 <em>La pagina podrá permitirle a los usuarios buscar juegos por medio de filtros.</em>
 
-<em>El usuario podra registrarse, iniciar sesion, cerrar sesion y iniciar en cuenta de invitado al inicio de la pagina.</em>
+<em>El sistema permitira a los usuarios registrarse, iniciar sesion, cerrar sesion y acceder como invitado desde la pagina principal  de la plataforma web.</em>
