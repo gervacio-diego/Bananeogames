@@ -6,7 +6,7 @@ $\color{Bittersweet}{Pagina\ de\ videojuegos\ de\ calidad.}$
 
 <strong><em>Requisitos no funcionales.</em></strong>
 
-<em>La pagina tiene que mostrar un catalogo de juegos de entre el año 1990-2010, una referencia seria la pagina de videojuegos FRIV.</em>
+<em>La web contara con un catalogo de videojugos extensos, este catalogo abarcara desde el año 1990 hasta el año 2010, esto respetando los lineamientos de derechos de autor y el uso libre de estos mismos.</em>
 
 <em>La pagina va tener una paleta de colores brillantes que llame la atencion a todo tipo de publico.</em>
 
