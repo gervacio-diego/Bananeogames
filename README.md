@@ -2,6 +2,9 @@
 
 $\color{Aquamarine}{Pagina\ de\ videojuegos\ de\ calidad.}$
 
+![playing-video-game-om-nom](https://github.com/user-attachments/assets/b14af07d-97ed-4bfd-9a45-e2a099e91ab3)
+
+
 <strong><em>Requisitos no funcionales.</em></strong>
 
 <em>La pagina tiene que mostrar un catalogo de juegos de entre el año 1990-2010, una referencia seria la pagina de videojuegos FRIV.</em>
