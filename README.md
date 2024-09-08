@@ -18,7 +18,7 @@ $\color{Bittersweet}{Pagina\ de\ videojuegos\ de\ calidad.}$
 
 <strong><em>Requisitos funcionales.</em></strong>
 
-<em>El sistema contara con un apartado de personalizacion de frames per second (FPS), para que el usuario pueda adapartarlo a las especificaciones del computador.</em>
+<em>El sistema contara con un apartado de personalizacion de frames per second (FPS), permitiendo al usuario ajustarlo de acuerdo a las especificaciones de su equipo.</em>
 
 <em>La pagina tendra que ser interactiva en la seleccion de cada juego.</em>
 
