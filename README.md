@@ -2,7 +2,7 @@
 
 $\color{Aquamarine}{Pagina\ de\ videojuegos\ de\ calidad.}$
 
-![playing-video-game-om-nom](https://github.com/user-attachments/assets/0833d8cc-84fe-4b6d-a64f-553500ef5d02)
+![player (1)](https://github.com/user-attachments/assets/d2dc2264-ffad-40f0-93ae-7ed3813f66a6)
 
 <strong><em>Requisitos no funcionales.</em></strong>
 
