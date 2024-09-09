@@ -1,6 +1,7 @@
 <H1><strong><em>🎮BANANEO GAMES INC🎮.</em></strong></H1>
 
-$\color{Bittersweet}{Pagina\ de\ videojuegos\ de\ calidad.}$
+
+<table><tr><td>$\color{Bittersweet}{Pagina\ de\ videojuegos\ de\ calidad.}$</td></tr></table>
 
 ![player (1)](https://github.com/user-attachments/assets/d2dc2264-ffad-40f0-93ae-7ed3813f66a6)
 
