@@ -14,7 +14,7 @@ $\color{Bittersweet}{Pagina\ de\ videojuegos\ de\ calidad.}$
 
 <em>El sistema web debe ser totalmente compatible y funcionar correctamente en multiples navegadores web(Google chrome, Mozila Firefox, Microsoft edge, Safari).</em>
 
-<em>Cuando salgas de la ventana se pause el juego.</em>
+<em>Al momento de que el usario salga de la ventana, si hay algun juego en proceso se pausara automaticamente.</em>
 
 <strong><em>Requisitos funcionales.</em></strong>
 
