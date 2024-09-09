@@ -1,4 +1,4 @@
-<hi1><strong><em>🎮BANANEO GAMES INC🎮.</em></strong></hi1>
+<H1><strong><em>🎮BANANEO GAMES INC🎮.</em></strong></H1>
 
 $\color{Bittersweet}{Pagina\ de\ videojuegos\ de\ calidad.}$
 
