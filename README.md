@@ -14,6 +14,12 @@
 
 <strong><em>Requisitos no funcionales.</em></strong>
 
+<br>
+
+> [!TIP]
+> Additional advice to aid users in achieving better outcomes.
+
+
 <em>La web contara con un extenso catalogo de videojugos, este catalogo abarcara desde el año 1990 hasta el año 2010, esto respetando los lineamientos de derechos de autor y el uso libre de estos mismos.</em>
 
 <em>La pagina va tener una paleta de colores brillantes que llame la atencion a todo tipo de publico.</em>
