@@ -9,6 +9,13 @@
 <table><tr><td>$\color{Bittersweet}{Pagina\ de\ videojuegos\ de\ calidad.}$</td></tr></table> :octocat:
 
 
+
+<br>
+
+> [!IMPORTANT]
+> Realizar un espacio interactivo y alegre para el usuario, donde pueda encontrar un catalogo de juegos variados.
+
+
 <br>
 
 > [!OBJETIVOS]
