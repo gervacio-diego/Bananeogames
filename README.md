@@ -1,3 +1,4 @@
+
 <H1><strong><em>🎮BANANEO GAMES INC🎮.</em></strong></H1>
 <p align="center">
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
@@ -6,6 +7,12 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <table><tr><td>$\color{Bittersweet}{Pagina\ de\ videojuegos\ de\ calidad.}$</td></tr></table> :octocat:
+
+
+<br>
+
+> [!OBJETIVOS]
+> Realizar un espacio interactivo y alegre para el usuario, donde pueda encontrar un catalogo de juegos variados.
 
 -probando codigo
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
