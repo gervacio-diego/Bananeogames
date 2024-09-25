@@ -13,7 +13,7 @@
 <br>
 
 > [!IMPORTANT]
-> Realizar un espacio interactivo y alegre para el usuario, donde pueda encontrar un catalogo de juegos variados.
+> <samp>Realizar un espacio interactivo y alegre para el usuario, donde pueda encontrar un catalogo de juegos variados.</samp>
 
 
 <br>
