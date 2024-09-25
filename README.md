@@ -3,6 +3,7 @@
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
 </p>
 <br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <table><tr><td>$\color{Bittersweet}{Pagina\ de\ videojuegos\ de\ calidad.}$</td></tr></table> :octocat:
 
