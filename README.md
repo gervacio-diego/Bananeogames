@@ -2,6 +2,8 @@
 
 <table><tr><td>$\color{Bittersweet}{Pagina\ de\ videojuegos\ de\ calidad.}$</td></tr></table> :octocat:
 
+-probando codigo
+
 ![player (1)](https://github.com/user-attachments/assets/d2dc2264-ffad-40f0-93ae-7ed3813f66a6)
 
 <strong><em>Requisitos no funcionales.</em></strong>
