@@ -3,6 +3,7 @@
 <table><tr><td>$\color{Bittersweet}{Pagina\ de\ videojuegos\ de\ calidad.}$</td></tr></table> :octocat:
 
 -probando codigo
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
 
 ![player (1)](https://github.com/user-attachments/assets/d2dc2264-ffad-40f0-93ae-7ed3813f66a6)
 
