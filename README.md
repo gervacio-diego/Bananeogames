@@ -1,4 +1,8 @@
 <H1><strong><em>🎮BANANEO GAMES INC🎮.</em></strong></H1>
+<p align="center">
+  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+</p>
+<br>
 
 <table><tr><td>$\color{Bittersweet}{Pagina\ de\ videojuegos\ de\ calidad.}$</td></tr></table> :octocat:
 
