@@ -6,7 +6,7 @@
 <br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<table><tr><td>$\color{Bittersweet}{Pagina\ de\ videojuegos\ de\ calidad.}$</td></tr></table> :octocat:
+<table><tr><td>$\color{Bittersweet}{Pagina" "de" "videojuegos} de\ calidad.}$</td></tr></table> :octocat:
 
 
 
